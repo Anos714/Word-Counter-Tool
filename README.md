@@ -19,13 +19,13 @@ This project was built to practice string manipulation and dictionary usage in P
 
 ## 📌 Sample Output
 
-Enter your text: Python is fun and Python is powerful.
+# Enter your text: Python is fun and Python is powerful.
 
-#Total words: 7
-#Total characters (excluding spaces): 34
-#Word frequency:
-#python: 2
-#is: 2
-#fun: 1
-#and: 1
-#powerful: 1
+# Total words: 7
+# Total characters (excluding spaces): 34
+# Word frequency:
+# python: 2
+# is: 2
+# fun: 1
+# and: 1
+# powerful: 1
